@@ -5,7 +5,6 @@ This tool automates the process of fetching unread emails from a Gmail inbox and
 
 ## 3. Setup Instructions
 1. **Clone the Repository:**
-   ```bash
 
 2. **Install Dependencies:**
     pip install -r requirements.txt
