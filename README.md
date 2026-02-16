@@ -1,17 +1,11 @@
 # Gmail to Google Sheets Automation
-**Name:** MAILA SRILAXMI
 
 ## 1. Project Overview
 This tool automates the process of fetching unread emails from a Gmail inbox and logging specific details (Sender, Subject, Date, Content) into a Google Sheet. It is designed to run locally using OAuth 2.0 for secure authentication and prevents duplicate entries.
 
-## 2. Architecture Diagram
-![Architecture Diagram](proof/architecture_diagram.png)
-
 ## 3. Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)mailasrilakshmi41/gmail-to-sheets.git
-   cd gmail-to-sheets
 
 2. **Install Dependencies:**
     pip install -r requirements.txt
